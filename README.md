@@ -5,7 +5,7 @@ The online retail industry is highly competitive, and companies need to stay ahe
 ### Data Exploration and Cleaning:
 Before segmenting the customers, we first explored and cleaned the data to ensure that it was ready for analysis. Data cleaning involved identifying and removing missing values, incorrect data types, and outliers. Exploratory data analysis helped us understand the relationships between the features and identify patterns and trends in the data. For instance, we found that customers from different countries had different buying patterns and preferences.
 
-![alt text](https://github.com/rajashriekatpure/Project_customer_segmentation-/blob/main/Combine.jpg | width=50%)
+<img src="[https://i.imgur.com/ZWnhY9T.png](https://github.com/rajashriekatpure/Project_customer_segmentation-/blob/main/Combine.jpg)" width=50% height=50%>
 
 ### RFM Analysis:
 After cleaning and exploring the data, we performed RFM analysis to segment the customers based on their behavior. RFM stands for Recency, Frequency, and Monetary, and it is a widely used technique for customer segmentation. Using RFM analysis, we identified the Platinum and Gold Customers who brought in more profit to the online retail store. These customers had high monetary value, made frequent purchases, and had a recent transaction with the company. We then focused on Silver and Bronze type customers, who were less valuable than the Platinum and Gold Customers. By organizing attractive offers for these customers, we aimed to increase their engagement with the company and boost their loyalty.
